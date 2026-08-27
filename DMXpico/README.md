@@ -3,9 +3,9 @@
 
 
 
-<img src="DMXpico-open.png" width="400" alt="Raspi Pico with Waveshare 2-Channel RS485 module">
-<img src="DMXpico-case.png" width="400" alt="Raspi Pico with two RS485 interfaces">
-<img src="DMXpico-connect.png" width="400" alt="Raspi Pico with two DMX interfacces">
+<img src="DMXpico-open.jpg" width="400" alt="Raspi Pico with Waveshare 2-Channel RS485 module">
+<img src="DMXpico-case.jpg" width="400" alt="Raspi Pico with two RS485 interfaces">
+<img src="DMXpico-connect.jpg" width="400" alt="Raspi Pico with two DMX interfacces">
 
 
 
